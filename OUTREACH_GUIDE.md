@@ -48,7 +48,7 @@ We believe these findings provide a valuable, turnkey blueprint for the Antigrav
 
 Best regards,
 [Your Name / Online Handle]
-[Link to Report / Repo]
+https://github.com/RANGANATHAPbeginner/antigravity-browser-subagent
 ```
 
 ---
@@ -76,7 +76,7 @@ Instead of accepting superficial band-aids (like hiding crash banners with flags
 
 This is proof of what high-level vibe coding can achieve when you pair human product intuition with Gemini 3.8 Flash.
 
-Full technical breakdown & architecture diagram: [Link]
+Full technical breakdown & architecture diagram: https://github.com/RANGANATHAPbeginner/antigravity-browser-subagent
 
 cc @OfficialLoganK @DynamicWebPaige #Gemini #Antigravity #VibeCoding #AI #BuildInPublic
 ```
